@@ -1,4 +1,32 @@
 .box {
     display: flex;
     padding: 10px;
+
  }
+
+ app-crew {
+     border: 5px solid #F57D7C;
+     padding: 20px;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+
+ app-equipment {
+    border: 5px solid #F57D7C;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+app-experiments {
+    border: 5px solid #F57D7C;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+app-header {
+    border: 5px solid #F57D7C
+}
+
+
